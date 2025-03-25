@@ -1,4 +1,4 @@
-# 🧠 Breast Cancer Classification using Decision Trees (Scikit-learn)
+# Breast Cancer Classification using Decision Trees (Scikit-learn)
 
 This project focuses on building a binary classification model using the **Breast Cancer Wisconsin dataset** to predict whether a tumor is benign or malignant based on diagnostic features. The model is developed using Scikit-learn’s **Decision Tree Classifier** with a focus on interpretability, model tuning, and visualization.
 
